@@ -57,7 +57,7 @@
                 "reference": "4bd5c1cdfcd00e9e2d8c484f79150f67e5d355d9",
                 "shasum": ""
             },
-            "require": {
+            "require": { 
                 "php": "^7.1 || ^8.0"
             },
             "require-dev": {
